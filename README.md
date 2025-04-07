@@ -1,5 +1,7 @@
 # opioid-deaths-analysis
 
+Introducation:
+
 This spreadsheet contains data on opioid-related deaths in the United States from 1999 to 2014. It includes the following columns:
 
 State: The U.S. state where the data was recorded.
@@ -22,6 +24,8 @@ Yearly Trends: Displays the trends in opioid-related deaths over the years, incl
 
 State Analysis: Provides a state-level analysis of opioid-related deaths.
 
-The last sheet offers an overview of the data, summarizing key findings and any important notes about the dataset.
+An overview sheet of the data, summarizing key findings and any important notes about the dataset.
+
+The last sheet is the raw dataset.
 
 Feel free to explore the data and charts for insights on the opioid crisis across the U.S. from 1999 to 2014.
